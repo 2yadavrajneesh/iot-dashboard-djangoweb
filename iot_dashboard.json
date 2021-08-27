@@ -1,0 +1,575 @@
+[{
+		"deviceid": "0001",
+		"latitude": "25.7",
+		"longitude": "78.8",
+		"devicename": "weatherdatacollector",
+		"deviceinstalldate": "15-03-2020",
+		"deviceexpirydate": "20-09-2023",
+	    "category":  "weather",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh...." ,
+
+
+
+		"deviceinfo": [{
+				"temperature": "34"
+			},
+			{
+				"humidity": "14"
+			},
+			{
+				"winddirection": "North"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0002",
+		"latitude": "25.4",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-03-2021",
+		"deviceexpirydate": "20-09-2023",
+		"category":  "smarthome",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "31"
+			},
+			{
+				"humidity": "11"
+			},
+			{
+				"waterlabel": "20"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0003",
+		"latitude": "25.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-04-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "30"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0004",
+		"latitude": "25.4",
+		"longitude": "74.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "14-04-2021",
+		"deviceexpirydate": "20-04-2023",
+		"category":  "airpump",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "31"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "21"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0004",
+		"latitude": "26.5",
+		"longitude": "78.6",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "16-04-2021",
+		"deviceexpirydate": "20-04-2023",
+		"category":  "park",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "32"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "32"
+			}
+
+		]
+
+	},
+
+	{
+		"deviceid": "0005",
+		"latitude": "25.2",
+		"longitude": "75.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-10-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "school",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "169"
+			},
+			{
+				"waterlabel": "25"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0006",
+		"latitude": "26.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-09-2021",
+		"deviceexpirydate": "20-08-2023",
+		"category":  "smartflat",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "30"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0006",
+		"latitude": "23.5",
+		"longitude": "65.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "25-04-2021",
+		"deviceexpirydate": "05-05-2023",
+		"category":  "schoolmoterpump",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "24"
+			},
+			{
+				"humidity": "22"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0007",
+		"latitude": "29.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "13-04-2021",
+		"deviceexpirydate": "24-05-2023",
+		"category":  "airpump",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "33"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0008",
+		"latitude": "26.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "29-06-2021",
+		"deviceexpirydate": "21-05-2023",
+		"category":  "waterpump",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "65"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0009",
+		"latitude":"65.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "29-06-2021",
+		"deviceexpirydate": "20-06-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "30"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0010",
+		"latitude": "26.5",
+		"longitude": "88.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "11-04-2021",
+		"deviceexpirydate": "20-11-2023",
+		"category":  "park",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "25"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0011",
+		"latitude": "22.5",
+		"longitude": "55.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-05-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "55"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "12"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0012",
+		"latitude": "21.5",
+		"longitude": "88.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "05-04-2021",
+		"deviceexpirydate": "20-06-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "16"
+			},
+			{
+				"waterlabel": "25"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0013",
+		"latitude": "28.5",
+		"longitude": "82.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "25-04-2021",
+		"deviceexpirydate": "26-11-2023",
+		"category":  "school",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "18"
+			},
+			{
+				"waterlabel": "26"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0014",
+		"latitude": "29.5",
+		"longitude": "80.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "20-04-2021",
+		"deviceexpirydate": "20-11-2023",
+		"category":  "3rdflat",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "25"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "00015",
+		"latitude": "28.5",
+		"longitude": "82.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "25-04-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "30"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0016",
+		"latitude": "25.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-04-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "5thflat",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "31"
+			},
+			{
+				"humidity": "15"
+			},
+			{
+				"waterlabel": "25"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0017",
+		"latitude": "26.25",
+		"longitude": "76.25",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "05-10-2021",
+		"deviceexpirydate": "24-06-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "35"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+
+	{
+		"deviceid": "0018",
+		"latitude": "25.5",
+		"longitude": "78.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "15-04-2021",
+		"deviceexpirydate": "20-05-2023",
+		"category":  "moter",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "30"
+			},
+			{
+				"humidity": "12"
+			},
+			{
+				"waterlabel": "22"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0019",
+		"latitude": "32.5",
+		"longitude": "75.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "16-09-2021",
+		"deviceexpirydate": "15-06-2023",
+		"category":  "pump",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "38"
+			},
+			{
+				"humidity": "16"
+			},
+			{
+				"waterlabel": "24"
+			}
+
+		]
+
+	},
+	{
+		"deviceid": "0020",
+		"latitude": "88.5",
+		"longitude": "45.1",
+		"devicename": "waterlabelcollector",
+		"deviceinstalldate": "22-09-2021",
+		"deviceexpirydate": "19-06-2023",
+		"category":  "park",
+        "imageurl": "https://images.google.com/",
+		"videourl": "htpp///ddfgfgghgh....",
+
+
+
+		"deviceinfo": [{
+				"temperature": "39"
+			},
+			{
+				"humidity": "18"
+			},
+			{
+				"waterlabel": "28"
+			}
+
+		]
+
+	}
+]

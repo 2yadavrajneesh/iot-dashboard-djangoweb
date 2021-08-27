@@ -40,14 +40,13 @@
             </div>
         </div>
         <div class="row clearfix">
-            {% for portfolio in all_search_results %}
+            {% for port in all_search_results %}
+            {{ port }}
             <div class="col-lg-4 col-md-4 col-sm-12">
                 <div class="card appliances-grp ng-star-inserted">
                     <div class="body clearfix">
                         <div class="content">
-                            <h6>Device Name <span class="text-success">{{ portfolio.device_name }}</span></h6>
-                            <p class="ng-star-inserted">City <span class="text-warning">{{ portfolio.city }}</span></p>
-                            <p class="ng-star-inserted">Registration Number <span class="text-warning">{{ portfolio.registration_number }}</span></p>
+                            <h6>Device Name <span class="text-success">{{ port.devicename }}</span></h6>
                         </div>
                     </div>
                 </div>
